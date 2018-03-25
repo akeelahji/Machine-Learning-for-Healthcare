@@ -1,0 +1,2 @@
+# Machine-Learning-for-Healthcare
+Our analysis will focus on constructing Machine Learning models to predict the individual-level Chronic Kidney Disease (CKD) on the dataset \textit{National Health and Nutrition Examination Survey} 2013-2014(NHANES). The likely outcome is to predict one's kidney health status, namely no CKD or CKD stages 1-4, based on his or her demographic, dietary, questionnaires (living habits like physical activities), examination, and laboratory data. 
